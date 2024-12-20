@@ -1,10 +1,8 @@
-# cohort_2.0
-
-\*\* Start week 2
+# ** Give 2 Days for one topic **
 
 # Roadmap of Backend Engineering
 
-1. [] High Level understanding of the Backend Engineering
+1. High Level understanding of the Backend Engineering
 
 2. HTTP protocols [communication, headers, http methods-get, put, post, cors flow, http responses, commonly use http codes, catching, catching techniques, content negotiation, compression, persistent connection, security aspects of http]
 
