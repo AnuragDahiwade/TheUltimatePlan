@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "bfbd700f285a9434",
+    "type": "split",
+    "children": [
+      {
+        "id": "1128ca832ba2fc87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82dd9f02d8995ba8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7b4ac6254f22c69e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Get Next Compony/RoadMap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RoadMap"
+            }
+          },
+          {
+            "id": "45231702fa0de06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Get Next Compony/DSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA"
+            }
+          },
+          {
+            "id": "540666cf8ee2ee17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Get Next Compony/Projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "1efb04e442592d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Get Next Compony/Back-end Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Back-end Engineering"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "662450354f25395c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf16293e7de2402b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d39877a5f4d2ead",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8fcf776ee2fc227",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c8b9a5366604e2d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "right": {
+    "id": "423e81c24ea26f3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "46114cc713e2d811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb248a840dbcd554",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Get Next Compony/Back-end Engineering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Back-end Engineering"
+            }
+          },
+          {
+            "id": "92724b609efdb28b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Get Next Compony/Back-end Engineering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Back-end Engineering"
+            }
+          },
+          {
+            "id": "7f1a44085e353a78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87e5d975e48ac075",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Get Next Compony/Back-end Engineering.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Back-end Engineering"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3d39877a5f4d2ead",
+  "lastOpenFiles": [
+    "README.md",
+    "Get Next Compony/Projects.md",
+    "Get Next Compony/Back-end Engineering.md",
+    "Get Next Compony/DSA.md",
+    "Get Next Compony/RoadMap.md",
+    "Get Next Compony"
+  ]
+}
